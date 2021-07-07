@@ -1,0 +1,13 @@
+,subject,predicate,object
+1,http://www.w3.org/2004/02/skos/core#Concept,http://data.bgs.ac.uk/ref/625KGeologyMap/hasEarthMaterialClass,http://www.w3.org/2004/02/skos/core#Concept
+9,http://www.w3.org/2004/02/skos/core#ConceptScheme,http://www.w3.org/2004/02/skos/core#hasTopConcept,http://www.w3.org/2004/02/skos/core#Concept
+11,http://www.w3.org/2004/02/skos/core#Concept,http://www.w3.org/2000/01/rdf-schema#isDefinedBy,http://www.w3.org/2004/02/skos/core#ConceptScheme
+12,http://www.w3.org/2004/02/skos/core#Concept,http://data.bgs.ac.uk/ref/Geochronology/end,http://www.w3.org/2004/02/skos/core#Concept
+13,http://www.w3.org/2004/02/skos/core#Concept,http://data.bgs.ac.uk/ref/EarthMaterialClass/superClassTAS,http://www.w3.org/2004/02/skos/core#Concept
+15,http://www.w3.org/2004/02/skos/core#Concept,http://purl.org/dc/terms/hasPart,http://www.w3.org/2004/02/skos/core#Concept
+21,http://www.w3.org/2004/02/skos/core#Concept,http://data.bgs.ac.uk/ref/Lexicon/hasLithologyComponent,http://www.w3.org/2004/02/skos/core#Concept
+23,http://www.w3.org/2004/02/skos/core#Concept,http://data.bgs.ac.uk/ref/625KGeologyMap/hasRank,http://www.w3.org/2004/02/skos/core#Concept
+27,http://www.w3.org/2004/02/skos/core#Concept,http://data.bgs.ac.uk/ref/625KGeologyMap/hasLexicon,http://www.w3.org/2004/02/skos/core#Concept
+28,http://www.w3.org/2004/02/skos/core#Concept,http://data.bgs.ac.uk/ref/EarthMaterialClass/superClassMain,http://www.w3.org/2004/02/skos/core#Concept
+29,http://www.w3.org/2004/02/skos/core#Concept,http://data.bgs.ac.uk/ref/Lexicon/hasPredominantAge,http://www.w3.org/2004/02/skos/core#Concept
+40,http://www.w3.org/2004/02/skos/core#Concept,http://data.bgs.ac.uk/ref/Lexicon/hasEquivalentLexiconEntry,http://www.w3.org/2004/02/skos/core#Concept

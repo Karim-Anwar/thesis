@@ -1,0 +1,11 @@
+,subject,predicate,object
+5,http://www.openarchives.org/ore/terms/Proxy,http://purl.org/collections/nl/am/productionPeriod,http://www.w3.org/2004/02/skos/core#Concept
+19,http://purl.org/collections/nl/am/Documentation,http://purl.org/collections/nl/am/documentationAuthor,http://purl.org/collections/nl/am/Person
+29,http://purl.org/collections/nl/am/Locat,http://purl.org/collections/nl/am/currentLocationFitness,http://www.w3.org/2004/02/skos/core#Concept
+30,http://www.openarchives.org/ore/terms/Proxy,http://purl.org/collections/nl/am/contentMotifGeneral,http://www.w3.org/2004/02/skos/core#Concept
+35,http://www.w3.org/2004/02/skos/core#Concept,http://www.w3.org/2004/02/skos/core#narrower,http://www.w3.org/2004/02/skos/core#Concept
+38,http://www.w3.org/2004/02/skos/core#Concept,http://www.w3.org/2004/02/skos/core#broader,http://www.w3.org/2004/02/skos/core#Concept
+39,http://www.openarchives.org/ore/terms/Proxy,http://purl.org/collections/nl/am/acquisitionMethod,http://www.w3.org/2004/02/skos/core#Concept
+44,http://www.openarchives.org/ore/terms/Proxy,http://purl.org/collections/nl/am/ahmteksten,http://purl.org/collections/nl/am/Ahmteksten
+48,http://www.openarchives.org/ore/terms/Proxy,http://purl.org/collections/nl/am/contentSubject,http://www.w3.org/2004/02/skos/core#Concept
+51,http://purl.org/collections/nl/am/TermType,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2000/01/rdf-schema#Class
